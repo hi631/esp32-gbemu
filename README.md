@@ -78,7 +78,7 @@ Because of copyright reasons, you will have to supply the game rom image yoursel
 
 # Details of the program
 
- [Move GAME emulator with ESP 32 ](https://qiita.com/hi631/items/cbe2aa209b14fde55d36)
+  [Move GAME emulator with ESP 32 ](https://qiita.com/hi631/items/cbe2aa209b14fde55d36)
 
 
 # License/legal
