@@ -62,7 +62,7 @@ Also connect the power and ground lines. Most PS1/PS2 controllers work fine from
 
 Using a tool capable of flashing the SPI flash connected to the ESP32, program the following files to the following
 addresses:
-esptool.py --chip esp32 --port "/dev/ttyxx" --baud $((921600)) write_flash -fs 4MB 0x140000 xxxx.sms
+esptool.py --chip esp32 --port "/dev/ttyxx" --baud $((921600)) write_flash -fs 4MB 0x140000 xxxx.gb(gbc)
 
 **Flash**
 
